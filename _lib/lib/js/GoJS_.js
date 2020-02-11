@@ -1,0 +1,1 @@
+alert("La biblioteca GoJS ya no está disponible para uso nativo en Scriptcase. Encuentra más información accediendo a\nhttps://scriptcase-support.kayako.com/es/article/1262\n \nVea en el enlace abajo los nuevos componentes desarrollado por nuestro equipo:\nhttps://scriptcase-support.kayako.com/en-us/article/1263");
